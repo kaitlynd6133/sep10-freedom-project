@@ -9,11 +9,12 @@ I've Decided On and Why The topic that i've decided on for my project is buisnes
 ## Backup Ideas
 
 My backup ideas were to explore the field of ultrasound tech. I was curious about how sonographers can use different kinds of machines to capture sound waves and how they are able to scan the heart, liver, abdomen and many more. Another one of my backup idea was to look into veterinary where you get to treat animals with medical condititons and injuries. But, I decided to focus more on business because it aligns more closely with my long term interests and goals.
-
 ## Sources
+
 Here are the links that I used to explore this topic:
 * https://www.indeed.com/career-advice/career-development/what-is-business-technology#:~:text=Business%20technology%20is%20any%20electronic,them%20organize%20and%20prioritize%20work.
 * https://www.businessnewsdaily.com/9835-automation-tech-workforce.html
 
 ## Engineering Design Process
 
+Currently, Im in the first stage of engineering design process. I will research and explore how different machines and technologies is used in business by looking at articles.
