@@ -17,4 +17,4 @@ Here are the links that I used to explore this topic:
 
 ## Engineering Design Process
 
-Currently, Im in the first stage of engineering design process. I will research and explore how different machines and technologies is used in business by looking at articles.
+Currently, Im in the first stage of engineering design process. I will first defign the problem then I will research and explore how different machines and technologies is used in business by looking at articles.
