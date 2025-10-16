@@ -18,3 +18,7 @@ Here are the links that I used to explore this topic:
 ## Engineering Design Process
 
 Currently, Im in the first stage of engineering design process. I will first define the problem then I will research and explore how different machines and technologies is used in business by looking at articles.
+
+## Skills
+
+My skills are learning how to google and learning on my own. I can search up reliable and good sources on google. I will only look for websites that ends with .gov or .com and I know how to search specific things like finding, videos, images and websites. I am good with learning on my own by finding videos or googling things that I  want to know about.
