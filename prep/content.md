@@ -3,7 +3,7 @@ Topic: **Business**
 ## Apps
 * The website that I looked into was https://www.ringcentral.com/us/en/blog/free-business-apps/
 * This website contains rankings of different types of apps used for business
-* The first app review I looked at is <a href="https://evernote.com/">Evernote
+* The first app review I looked at is <a href="https://evernote.com/">Evernote <a/>
   * Allows you to share notes with others
   * Search for text in handwriting and images
   * Make notes more accesible offline
