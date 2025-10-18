@@ -8,11 +8,11 @@ Topic: **Business**
   * Search for text in handwriting and images
   * Make notes more accesible offline
   * Available on Windows, Apple, Andriod, iOS
-* The second app review I looked at is <a href="https://workspace.google.com/products/drive/">Google Drive
+* The second app review I looked at is <a href="https://workspace.google.com/products/drive/">Google Drive </a>
   * Generous free storage
   * Offline accesible available
   * link to other prductivity tools
-* The third app review I looked at is <a href="https://www.waveapps.com/">Wave
+* The third app review I looked at is <a href="https://www.waveapps.com/">Wave</a>
   * Automated cash flow and expense tracking
   * Direct intergrations with Google sheets
   * Ecommerse feature
