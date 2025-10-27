@@ -23,4 +23,8 @@ Topic: **Business**
   * Artifical Intelligence
   * Social Media
   * Computers
+## Devices & Hardwares
+* The third website that I looked into was https://squareup.com/us/en/hardware
+* This website shows different types of hardwares and equipments used in business
+* The first hardware I looked at is the self-service ipad
 
