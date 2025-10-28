@@ -16,7 +16,7 @@ Topic: **Business**
   * Automated cash flow and expense tracking
   * Direct intergrations with Google sheets
   * Ecommerse feature
-## Part A: Technology
+## Technology
 * The second wesite that I looked into was https://crmswitch.com/business-technology/important-advancements-business-tech/
 * This website shows rankings of different types of techologies used in business
 * The technologies that they used are:
@@ -27,4 +27,5 @@ Topic: **Business**
 * The third website that I looked into was https://squareup.com/us/en/hardware
 * This website shows different types of hardwares and equipments used in business
 * The first hardware I looked at is the self-service ipad
+* 
 
