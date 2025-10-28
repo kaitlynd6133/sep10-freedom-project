@@ -25,7 +25,12 @@ Topic: **Business**
   * Computers
 ## Devices & Hardwares
 * The third website that I looked into was https://squareup.com/us/en/hardware
-* This website shows different types of hardwares and equipments used in business
+  * This website shows different types of hardwares and equipments used in business
 * The first hardware I looked at is the self-service ipad
-* 
+  * 
+* I also searched up gadgets for business and I found:
+* Security gadget
+  *  This gadget focuses on online security
+*  Portable projector
+  *  
 
