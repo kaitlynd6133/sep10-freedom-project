@@ -36,7 +36,7 @@ Topic: **Business**
  * The fourth hardware I looked at is Under desk elliptical machine
    *  This device helps employees stay active and healthy while working by peddaling in place under their desk for exercising. It also helpes employees to incoporate movement without disrupting the office environemnt improve mood, and better focus.
 *  The fifth hardware I looked at is the Pomodoro timer
-  * This tool is used to improve focus and productivity by breaking work into short, timed intervals followed by short breaks.
+   * This tool is used to improve focus and productivity by breaking work into short, timed intervals followed by short breaks.
 * The sixth hardware I looked at is Pen Scanners
   *  This pen are used to digitize text from physical documents into editable digital text. 
 
