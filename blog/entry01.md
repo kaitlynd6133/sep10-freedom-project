@@ -4,7 +4,7 @@
 
 ## Topic 
 
-I've Decided On and Why The topic that i've decided on for my project is buisness and what machines are used in this field. I chose this topic becuase I find business captivating. It offers various career paths, high earning potiental, and provides opportunities to learn about how the world works. I was originally interested in sonography because I found it interesting that people could use technologies to make a difference in people's lives by detecting pregency complications and health issues. But, I found business more compelling because it often involves in strategic thinking and developing communication skills. 
+I've Decided On and Why The topic that i've decided on for my project is buisness and what machines are used in this field. I chose this topic becuase I find business captivating. It offers various career paths, high earning potiental, and provides opportunities to learn about how the world works. I was originally interested in sonography because I found it interesting that people could use technologies to make a difference in people's lives by detecting pregency complications and health issues. But, I found business more compelling because it often involves in strategic thinking and developing communication skills. Some of my favorite 
 
 ## Backup Ideas
 
