@@ -8,13 +8,14 @@ I gathered many informations on software & hardware technologies that are used i
 Currently I am in the first stage of the engineering design process. I am researching on technology devices and apps used in business for my project. For the next step I will start working on the project.
 
 ## Skills
-The skills that Im currently working on is time management and learning how to read. 
+The skills that Im currently working on is *time management* and *learning how to read.*
 
 **Time management**
 
 I have been working on improving my time management skills by doing my work first then spending the rest of my time on my hobbies instead of procrastinating. This helps me get my homework done on time. 
 
 **Learning how to read**
+
 While doing research on my project, as I was reading from some of the websites I encounter many words that I haven't learned yet so I used context clues to find the defenition of the word or I google the word up.
 
 
