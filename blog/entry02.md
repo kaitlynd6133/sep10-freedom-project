@@ -9,6 +9,7 @@ Currently I am in the first stage of the engineering design process. I am resear
 
 ## Skills
 The skills that Im currently working on is time management and learning how to read. 
+
 **Time management**
 
 I have been working on improving my time management skills by doing my work first then spending the rest of my time on my hobbies instead of procrastinating. This helps me get my homework done on time. 
