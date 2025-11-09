@@ -34,7 +34,7 @@ Topic: **Business**
 * The third hardware I looked at is Portable projector
   *  This is used for presenting on a big screen like client offices allowing large and clear visuals for large groups to see.
  * The fourth hardware I looked at is Under desk elliptical machine
-   *  This device helps employees stay active and healthy while working by peddaling in place under their desk for exercising. It also helpes employees to incoporate movement without disrupting the office environemnt improve mood, and better focus.
+   *  This device helps employees stay active and healthy while working by peddaling in place under their desk for exercising. It also helpes employees to incoporate movement without disrupting the office environment improve mood, and better focus.
 *  The fifth hardware I looked at is the Pomodoro timer
    * This tool is used to improve focus and productivity by breaking work into short, timed intervals followed by short breaks.
 * The sixth hardware I looked at is Pen Scanners
