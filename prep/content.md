@@ -38,5 +38,13 @@ Topic: **Business**
 *  The fifth hardware I looked at is the Pomodoro timer
    * This tool is used to improve focus and productivity by breaking work into short, timed intervals followed by short breaks.
 * The sixth hardware I looked at is Pen Scanners
-  *  This pen are used to digitize text from physical documents into editable digital text. 
+  *  This pen are used to digitize text from physical documents into editable digital text.
+ 
+  ## Intro/Context/Overview:
+  * 
+  ## Categories:
+  *Hardwares
+    *
+  *Softwatres
+    * 
 
