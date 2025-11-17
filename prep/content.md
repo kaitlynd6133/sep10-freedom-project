@@ -6,7 +6,7 @@
   ## Categories:
   * Healthcare Apps
     * Apps looked into:  <a href="https://evernote.com/">Evernote </a>, <a href="https://workspace.google.com/products/drive/">Google Drive </a>, <a href="https://www.waveapps.com/">Wave</a>
-    * These apps allows employees' work easier and more organized.
+    * These apps allows employees work easier and more organized.
     * These apps helps with taking notes better, organize tools, and finance tracking.
     * Evernote: Allows you to share notes with other, Search for text in handwriting and images, Make notes more accesible offline and is Available on Windows, Apple, Andriod, iOS.
     * Google Drive: Generous free storage, Offline accesible available andlink to other productivity tools.
