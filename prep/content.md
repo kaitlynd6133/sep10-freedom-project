@@ -1,6 +1,6 @@
 
   ## Intro/Context/Overview:
-  * Technology plays a huge role in business success. There are many apps, new technologies, and equipments that are helpful making work easier and more effecient.
+  * Technology has played a huge role in business success. There are many apps, new technologies, and equipments that are helpful making work easier and more effecient.
   * Business has helped with economic growth.
   
   ## Categories:
