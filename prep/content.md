@@ -1,9 +1,9 @@
 
-  ## Intro/Context/Overview:
+  ## Intro/Context/Overview
   * Technology has played a huge role in business success. There are many apps, new technologies, and equipments that are helpful making work easier and more effecient.
   * Business has helped with economic growth.
   
-  ## Existing technologies:
+  ## Existing technologies
   * Buisness Apps
     * Apps looked into:  <a href="https://evernote.com/">Evernote </a>, <a href="https://workspace.google.com/products/drive/">Google Drive </a>, <a href="https://www.waveapps.com/">Wave</a>
     * These apps allows employees work easier and more organized.
