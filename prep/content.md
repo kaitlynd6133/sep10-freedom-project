@@ -23,5 +23,8 @@
   * Cleaning offices
   * File organizing
   * Delivering things
-* 
+* Emotion reading device
+  * Improve costumer satisfaction
+  * easier communication
+  
 
