@@ -18,12 +18,12 @@
 Created by: Phil Libin in 2004
 ## Future innovations
 * Infinite storage USB
-image: ![usb](https://github.com/user-attachments/assets/4548a04a-959c-4f25-9646-d41a2047e86a)
+image: <img src="https://github.com/user-attachments/assets/4548a04a-959c-4f25-9646-d41a2047e86a" width="50">
   * Usb that could store infinite amounts of files and programs without worrying about deleting anything.
   *This device could prevent viruses and back up things fast
   * This would be very useful for buisness because this could prevent important documents an other things from being deleted or lost.
 * Robots to help with small tasks
-image:![usb](https://github.com/user-attachments/assets/ff96c430-8a1c-4137-82f4-e988d051a300)
+image:![robots](https://github.com/user-attachments/assets/17a42ff1-492f-477c-9e31-f2d5e9e5045c)
   * Cleaning offices
   * File organizing
   * Delivering things
