@@ -23,7 +23,7 @@ Created by: Phil Libin in 2004
   *This device could prevent viruses and back up things fast
   * This would be very useful for buisness because this could prevent important documents an other things from being deleted or lost.
 * Robots to help with small tasks
-image: <img src="https://github.com/user-attachments/assets/17a42ff1-492f-477c-9e31-f2d5e9e5045c" width="50">
+image: <img src="https://github.com/user-attachments/assets/9fbe67e6-c5c0-4a2b-8150-901677210a93" width="50">
   * Cleaning offices
   * File organizing
   * Delivering things
