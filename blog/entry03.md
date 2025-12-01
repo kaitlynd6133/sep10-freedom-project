@@ -12,7 +12,11 @@ The skills that Im working on is creativity and organization.
 
 **Creativity**
 
+I had to think outside of the box and think creativity. I had to experience with colors and fonts to make something look good. For example when I was doing my project, I had to think of ways to make the project look creative. Another example is when I was thinking of future innovations, I had to think of non exsistence technologies that would work for business. 
+
 **Organization**
+
+I learned how to seperate my partner's work and my work so that the amount of work that we do is divided fairly. I also had to organize my notes when working on the free code camp so when Im looking back at my notes, I could find what I needed easily.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
