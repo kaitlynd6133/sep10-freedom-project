@@ -28,7 +28,7 @@ image: <img src="https://github.com/user-attachments/assets/9fbe67e6-c5c0-4a2b-8
   * File organizing
   * Delivering things
 * Emotion reading device
-  * Improve costumer satisfaction
+  * Improve customer satisfaction
   * easier communication
   
 
