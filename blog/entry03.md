@@ -8,7 +8,10 @@ For plan B I thought of future innovations that would be useful for Business in 
 I am currently in the first stage of the engineering design process. I already finished researching on softwares and hardwares that are used for business. I also finished with thinking of future innovation technologies. I will start working on the project for the next step.
 
 ## Skills
-The skills that Im working on is 
+The skills that Im working on is creativity and organization.
+**Creativity**
+
+**Organization**
 
 [Previous](entry02.md) | [Next](entry04.md)
 
