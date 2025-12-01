@@ -9,6 +9,7 @@ I am currently in the first stage of the engineering design process. I already f
 
 ## Skills
 The skills that Im working on is creativity and organization.
+
 **Creativity**
 
 **Organization**
