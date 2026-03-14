@@ -8,11 +8,11 @@ For CSS grid I learned how to make different 3d models using the website [aframe
 Example:
 ```bash
     <a-scene>
-<a-sphere position="0 1.5 -5" radius="1" color="orange"></a-sphere>
+<a-sphere position="0 1.5 -5" radius="1" color="pink"></a-sphere>
 <a-circle position="-0.3 1.7 -5" radius="0.1" color="black"></a-circle>
 <a-circle position="0.3 1.7 -5" radius="0.1" color="black"></a-circle>
-<a-cone position="-0.6 2.4 -5" radius-bottom="0.3" height="0.6" color="white"></a-cone>
-<a-cone position="0.6 2.4 -5" radius-bottom="0.3" height="0.6" color="white"></a-cone>
+<a-cone position="-0.6 2.4 -5" radius-bottom="0.3" height="0.6" color="pink"></a-cone>
+<a-cone position="0.6 2.4 -5" radius-bottom="0.3" height="0.6" color="pink"></a-cone>
 <a-sky color="black"></a-sky>
     </a-scene>
 ```
