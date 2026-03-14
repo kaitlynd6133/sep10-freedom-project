@@ -2,7 +2,7 @@
 ##### 3/9
 
 ## Content
-For this project, we were required to find tools. I thinkered with tools like CSS grid, CSS flexbox, and Aframe. I visted websites and watched tutorials to learn how to use those tools. 
+For this project, we were required to find tools. I thinkered with tools like CSS grid, CSS flexbox, and Aframe. I visted websites and watched tutorials to learn how to use those tools. Here the tools I picked on to work with for this project:
 #### CSS Grid
 For CSS grid I learned how to use different codes to create grid containers and create complex web layouts. I went to [w3schools](https://www.w3schools.com/css/css_grid.asp) and learned all the grid properties for grid based layout systems with 
 
