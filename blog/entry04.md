@@ -17,6 +17,15 @@ Example:
     </a-scene>
 ```
 I created this by using the starter example from the aframe website. I messed around with it and added some primitives. I then kept on adjusting everything until it places on the way I wanted it to be. For the positioning it is ```position= "x,y,z"``` The ```x``` is going left and right, the ```y``` is going up and down and the ```z``` is going backwards and forwards. The ```radius``` is how large the model is going to be. The ```radius-bottom``` is adjusting the width.
+## Skills
+Skills that I gained from tinkering tools is learning on my own, growth mindset, and creativity.
+
+#### Learning On My Own
+I had to figure out how to learn to tinker with some of the tools on my own by watching videos and figuring out what the code does from messing around with it. For example, when making the cat I was really confused and forgot on how to position things so I searched it up and figured it out. I went through the website and learned how to insert different 3d models.
+#### Growth Mindset
+When tinkering with the tools, It took a long time figuring out how to code things the right way which requires alot of patience. I also had to memorize some codes. I also almost gaved up on Aframe because of how complicated it is and how much time it requires for me to learn it. This helped with improving my patience.
+#### Creativity
+I had to think outside the box. While tinkering with Aframe it took time and creativity to come up with a idea on what I should make.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
