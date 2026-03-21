@@ -12,7 +12,7 @@
     * Figuring out how to place the primitives where I exactly want it to be
     * Learning the positions like x,y,z
 * Next steps
-    * Maybe start the freedom project
+    * Maybe starting the freedom project
     * Creating more complex models
     * Learning more about Aframe
 
