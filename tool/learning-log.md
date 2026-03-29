@@ -10,14 +10,25 @@
     * I tried make a 3d model of a cat using a sphere, two circles, and two triangles
 * Challenges
     * Figuring out how to place the primitives where I exactly want it to be
-    * Learning the positions like x,y,z
+    * Learning the positions like ```x,y,z```
 * Next steps
     * Maybe starting the freedom project
     * Creating more complex models
     * Learning more about Aframe
 
-### X/X/XX:
-* Text
+### 3/29/26:
+* I watched some videos on Aframe on [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce)
+    * I learned more about positioning. I am now more familiar with it.
+    * `x` goes horizontally, `y` goes vertically, and `z` goes forward and backwards.
+    * I created and added other shapes
+    * Figured out how to use the sky component
+* Challenges
+    * Im still a little bit confused on the rotation and dimension attributes part.
+* Next steps
+    * creating more complex models
+    * Watch more videos and take notes on rotation
+    * be a little more familiar with aframe
+
 
 
 <!--
