@@ -34,8 +34,15 @@
 ### 4/12/2:
 * Watched a video on Aframe lesson on [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce)
     * Learned more about rotations
-    * 
-    * Used that Knowledge to rotate shapes on my cat model to make it look more like a cat.
+    * `x rotation` is tilting sideways, `y rotation` is spinning, and `z rotation` is tilting fowards/backwards
+    * Used that Knowledge to rotate shapes on my cat model to make it look more like a cat by changing the rotation of the cat ears
+* Challenges
+    * rotating the shapes to exactly how i wanted it to be
+    * Took a long time to figure it out
+* Next steps
+    * Hopefully starting the freedom project
+    * Make my cat model look better
+    * Learning how to add more different primitives
 
 
 <!--
