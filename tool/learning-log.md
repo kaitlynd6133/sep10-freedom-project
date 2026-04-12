@@ -11,6 +11,7 @@
 * Challenges
     * Figuring out how to place the primitives where I exactly want it to be
     * Learning the positions like ```x,y,z```
+    * The cat looked really off because the rotations and placements are not correct.
 * Next steps
     * Maybe starting the freedom project
     * Creating more complex models
@@ -22,6 +23,7 @@
     * `x` goes horizontally, `y` goes vertically, and `z` goes forward and backwards.
     * I created and added other shapes
     * Figured out how to use the sky component
+    * Fixed some problems with the cat model
 * Challenges
     * Im still a little bit confused on the rotation and dimension attributes part.
 * Next steps
@@ -29,6 +31,11 @@
     * Watch more videos and take notes on rotation
     * be a little more familiar with aframe
 
+### 4/12/2:
+* Watched a video on Aframe lesson on [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce)
+    * Learned more about rotations
+    * 
+    * Used that Knowledge to rotate shapes on my cat model to make it look more like a cat.
 
 
 <!--
