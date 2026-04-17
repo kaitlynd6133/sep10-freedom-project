@@ -31,7 +31,7 @@
     * Watch more videos and take notes on rotation
     * be a little more familiar with aframe
 
-### 4/12/2:
+### 4/12/26:
 * Watched a video on Aframe lesson on [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce)
     * Learned more about rotations
     * `x rotation` is tilting sideways, `y rotation` is spinning, and `z rotation` is tilting fowards/backwards
@@ -43,6 +43,15 @@
     * Hopefully starting the freedom project
     * Make my cat model look better
     * Learning how to add more different primitives
+### 4/17/26
+* Watched all the video lessons on Aframe
+    * become more familiar with rotation and positioning
+    * Learned a little bit about animation
+    * Created different 3d models by adding different primitives to make simple shapes.
+    * Tried to make a model of a stickman waving
+* Challenges
+    * Learning about how to code the animation was really confusing
+    * 
 
 
 <!--
