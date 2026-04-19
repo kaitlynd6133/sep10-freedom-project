@@ -73,7 +73,11 @@
     * I created the body by using cone, two cylinders, and two spheres
     * Learned some properties of animation
 * Challenges
-    * 
+    * The `dur` and `rotation`was confusing for the animation
+    * Took a long time to get the arms to animate the correct way
+* Next steps
+    * Get more familiar with animation
+    * Maybe starting the freedom project
 
 
 
