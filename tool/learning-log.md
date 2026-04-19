@@ -43,6 +43,7 @@
     * Hopefully starting the freedom project
     * Make my cat model look better
     * Learning how to add more different primitives
+
 ### 4/16/26
 * Watched all the video lessons on Aframe on [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce) and going on [Aframe](https://aframe.io/docs/1.7.0/introduction/) to learn about the animation components.
     * Learned how to change the sky color by using `<a-sky>`
@@ -55,8 +56,25 @@
     * Adding more stuff to my cat model to make it more detailed
     * Create the body of the cat
     * Learn more about animation
+
 ### 4/17/26
-* 
+* I learned how to add more shapes and learn more about animation since im still unfamiliar with it
+    * I added wiskers and a body to my cat
+    * I learned that `loop: true`repeats and how to make an object rotate.
+* Challenges
+    * The animation was still really confusing
+    * The whiskers took along time for me to adjust
+* Next steps
+    * Learning more about animation
+    * Using the animation components to make the cat animate
+
+### 4/18/26
+* I animated my cat arms (cylinder) to make it wave
+    * I created the body by using cone, two cylinders, and two spheres
+    * Learned some properties of animation
+* Challenges
+    * 
+
 
 
 
