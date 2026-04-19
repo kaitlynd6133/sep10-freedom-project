@@ -43,15 +43,22 @@
     * Hopefully starting the freedom project
     * Make my cat model look better
     * Learning how to add more different primitives
-### 4/17/26
-* Watched all the video lessons on Aframe
-    * become more familiar with rotation and positioning
-    * Learned a little bit about animation
-    * Created different 3d models by adding different primitives to make simple shapes.
-    * Tried to make a model of a stickman waving
+### 4/16/26
+* Watched all the video lessons on Aframe on [Youtube](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce) and going on [Aframe](https://aframe.io/docs/1.7.0/introduction/) to learn about the animation components.
+    * Learned how to change the sky color by using `<a-sky>`
+    * Changing the material of primitives by using `src:hello.jpg`
+    * Learned more about dimension attributes
 * Challenges
-    * Learning about how to code the animation was really confusing
-    * 
+    * Learning the animation components was really difficult
+    * The dimension attributes were a bit confusing
+* Next Steps
+    * Adding more stuff to my cat model to make it more detailed
+    * Create the body of the cat
+    * Learn more about animation
+### 4/17/26
+* 
+
+
 
 
 <!--
