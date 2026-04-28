@@ -33,7 +33,7 @@ For this project we continued on tinkering on our tool and learning about Aframe
  ```
 I added more shapes to my cat and adjusted the positioning, rotation, and radius. For the rotation I learned that `x rotation` is tilting sideways, `y rotation` is spinning, and `z rotation` is tilting fowards/backwards. I learned that adding the `radius` attributes defines the sizes of curved components. For instance, changing the `radius-bottom`to 0.01 on the cone for the nose is going to turn it into a cone.
 #### Animation
-Now for the animation part, I learned that the `property; rotation` part is to select what I want to animate. The `0 0 -50` is the target vaule. The cone starts at `rotation= "0 0 -90` to `0 0 -50`.  The `dir altnerane;` is to make the animation repeat going back and forth. The cone starts tiled -90 which is backwards to -50 forwards. The `dur` is the duration. Its going 500 milliseconds. Lastly, the `loop;true` is to run the animation forever.
+Now for the animation part, I learned that the `property; rotation` part is to select what I want to animate. The `0 0 -50` is the target vaule. The cone starts at `rotation= "0 0 -90` to `0 0 -50`.  The `dir altnerane;` is to make the animation repeat going back and forth. The cone starts tilted -90 which is backwards to -50 forwards. The `dur` is the duration. Its going 500 milliseconds. Lastly, the `loop;true` is to run the animation forever.
 
 ## Skills
 Skills that I gained from learning my tool is learning on my own, debugging, embracing failure.
