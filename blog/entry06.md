@@ -50,7 +50,7 @@ I used the tool [aframe](https://aframe.io/) to add to my freedom project. I cre
     </a-scene>
 ```
 
-## Challenges
+#### Challenges
 The most challenging part of creating this website was when me and my partner were trying to align the existing technology section correctly. It took us many tries to get it to align correctly. We wanted to align the cards for softwares on the left side and the cards for hardwares on the right side however, our problem was the hardware header wouldnt place on top on the right of softwares. It took us a long time to figure out the problem and with the help of mr mueller, we figured out that the problem was adding too many dividers and most importantly was missing rows and putting in the wrong column size. We used `col-md-4` instead of `col-md-6` which messed it up because they use up different width sizes and use different number of columns.
 **Example:**
 ``` bash
