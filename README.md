@@ -21,7 +21,7 @@ I used my knowledge of HTML, CSS, Bootstrap, and Github to make a website on bui
 * Help people learn about existing technologies and how they impact business
 ##### CONS
 * The infinite usb storage future innovation idea may be impossible and extremely difficult to create with current technology
-* Business may be heavily dependent on technology which could lead to possible problems like system failue.
+* Business may be heavily dependent on technology which could lead to possible problems like system failure.
 
 
 ## Blog
