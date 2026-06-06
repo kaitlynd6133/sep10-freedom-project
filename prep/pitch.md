@@ -1,0 +1,6 @@
+* I made a webpage using Html, css, bootstrap, and Aframe
+* My webpage is about Business in technology
+* The biggest challenge that I had when making my webpage was aligning the cards correctly
+* This is my future innovation. I created a model of a usb using what I learned for Aframe. This usb could store infinite amount of storage as well as preventing viruses and backing up things fast which is very useful for business
+
+    * Ever wonder how one piece of technology can make a big change? Hi, Our name is Kaitlyn and Angelina and we made a webpage using Html, css, bootstrap, and Aframe. Our webpage is about business in techology. The biggest challenge that we had when making my webpage was aligning the cards correctly because we had to use correct divs, container fluids, and knowing where to put rows/columns. This is my future innovation. we created a model of a usb using what we learned for Aframe. This usb could store infinite amount of storage as well as well as preventing viruses and backing up things fast which is very useful for business. We came up with this future innovations because we thought that having to use a lot of USB to store data and such can be a hassle when you're going back all different USB to find a data. So with one infinite storage USB, it wouldn't be much of a hassle when all data is stored in one piece of technology.
