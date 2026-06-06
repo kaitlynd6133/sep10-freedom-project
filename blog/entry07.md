@@ -17,7 +17,9 @@ Currently I finished my freedom project and also finished presenting it. My next
 ## Skills
 Skills that I gained when presenting my freedom project was communication and creativity
 #### Communication
-I had to use communciation during the expo elevator pitch. 
+I had to use communciation during the expo elevator pitch. I needed to clearly explain our project and website to the audience. Communicating helped me share inforamtion, make sure the audience understands what im saying, and answer questions. I also had to communicate with my partner to discuss what we each are going to be talking about to the audience.
+#### Creativity
+During the process of preparing for the in class presentation I had to use my creativity skills to make the slides for my presentation. I had to make sure the texts in the slides are big enough for the audience to see, include images, make the slides look good, and pick a color scheme that would avoid visual fatigue.
 
 
 [Previous](entry06.md) | [Next](entry08.md)
